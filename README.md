@@ -1,9 +1,5 @@
 # tic-tac-toe
-TRIPTI AGARWAL-22051648                
-SUBHASMITA -22051640                
-YASH KUMAR-22053128               
-ANURAG KUMAR-22052622                                        
-AYUSH RAJ-22052545                          
+
 
 
 INSTRUCTION
